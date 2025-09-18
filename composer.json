@@ -51,7 +51,8 @@
         "symfony/monolog-bundle": "^3.4",
         "symfony/runtime": "^7.3",
         "symfony/security-bundle": "^7.3",
-        "symfony/twig-bundle": "^7.3"
+        "symfony/twig-bundle": "^7.3",
+        "weggla/sulu-dynamic-form-ajax-validation-bundle": "@dev"
     },
     "require-dev": {
         "jangregor/phpstan-prophecy": "^2.0",

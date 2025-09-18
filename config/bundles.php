@@ -45,4 +45,6 @@ return [
     Sulu\Bundle\TrashBundle\SuluTrashBundle::class => ['all' => true],
     Sulu\Bundle\ReferenceBundle\SuluReferenceBundle::class => ['all' => true],
     Scheb\TwoFactorBundle\SchebTwoFactorBundle::class => ['all' => true],
+    Sulu\Bundle\FormBundle\SuluFormBundle::class => ['all' => true],
+    Sulu\Bundle\DynamicFormAjaxValidation\SuluDynamicFormAjaxValidationBundle::class => ['all' => true],
 ];
